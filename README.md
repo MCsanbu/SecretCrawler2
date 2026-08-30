@@ -1,3 +1,6 @@
+* 本项目已由MCsanbu托管，原仓库地址: https://github.com/secret-Alan/SecretCrawler *
+* 版权任归属于secret-Alan *
+
 # SecretCrawler
 
 > 专业合规网络爬虫 GUI 工具 · v1.0.0.alpha-1 · GPL-3.0
